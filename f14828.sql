@@ -1,3 +1,6 @@
+https://iacademy.oracle.com/ords/f?p=4000:1:12973884242126::NO:RP:FB_FLOW_ID,F4000_P1_FLOW:14828,14828
+
+Source Code:
 prompt --application/set_environment
 set define off verify off feedback off
 whenever sqlerror exit sql.sqlcode rollback
